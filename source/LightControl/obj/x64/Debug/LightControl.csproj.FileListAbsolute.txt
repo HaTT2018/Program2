@@ -1,0 +1,38 @@
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\LightOff.png
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\LightOn.png
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\LightControl.exe.config
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\LightControl.exe
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\LightControl.pdb
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\Newtonsoft.Json.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\bin\x64\Debug\Newtonsoft.Json.xml
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\obj\x64\Debug\LightControl.csprojAssemblyReference.cache
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\obj\x64\Debug\LightControl.Form1.resources
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\obj\x64\Debug\LightControl.Properties.Resources.resources
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\obj\x64\Debug\LightControl.csproj.GenerateResource.cache
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\obj\x64\Debug\LightControl.csproj.CoreCompileInputs.cache
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\obj\x64\Debug\LightControl.csproj.CopyComplete
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\obj\x64\Debug\LightControl.exe
+Z:\semesters\2018 spring summer\HIT_summer_school\LightControl\source\LightControl\obj\x64\Debug\LightControl.pdb
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\LightOff.png
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\LightOn.png
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\LightControl.exe.config
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\LightControl.exe
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\LightControl.pdb
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\10169\Desktop\LightControl\source\LightControl\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\10169\Desktop\LightControl\source\LightControl\obj\x64\Debug\LightControl.csprojAssemblyReference.cache
+C:\Users\10169\Desktop\LightControl\source\LightControl\obj\x64\Debug\LightControl.Form1.resources
+C:\Users\10169\Desktop\LightControl\source\LightControl\obj\x64\Debug\LightControl.Properties.Resources.resources
+C:\Users\10169\Desktop\LightControl\source\LightControl\obj\x64\Debug\LightControl.csproj.GenerateResource.cache
+C:\Users\10169\Desktop\LightControl\source\LightControl\obj\x64\Debug\LightControl.csproj.CoreCompileInputs.cache
+C:\Users\10169\Desktop\LightControl\source\LightControl\obj\x64\Debug\LightControl.csproj.CopyComplete
+C:\Users\10169\Desktop\LightControl\source\LightControl\obj\x64\Debug\LightControl.exe
+C:\Users\10169\Desktop\LightControl\source\LightControl\obj\x64\Debug\LightControl.pdb
