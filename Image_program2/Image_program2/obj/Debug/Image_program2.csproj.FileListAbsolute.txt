@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\Image_program2\Image_program2\bin\Debug\Image_program2.exe.config
+C:\Users\dell\source\repos\Image_program2\Image_program2\bin\Debug\Image_program2.exe
+C:\Users\dell\source\repos\Image_program2\Image_program2\bin\Debug\Image_program2.pdb
+C:\Users\dell\source\repos\Image_program2\Image_program2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell\source\repos\Image_program2\Image_program2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\source\repos\Image_program2\Image_program2\obj\Debug\Image_program2.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Image_program2\Image_program2\obj\Debug\Image_program2.Properties.Resources.resources
+C:\Users\dell\source\repos\Image_program2\Image_program2\obj\Debug\Image_program2.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Image_program2\Image_program2\obj\Debug\Image_program2.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Image_program2\Image_program2\obj\Debug\Image_program2.csproj.CopyComplete
+C:\Users\dell\source\repos\Image_program2\Image_program2\obj\Debug\Image_program2.exe
+C:\Users\dell\source\repos\Image_program2\Image_program2\obj\Debug\Image_program2.pdb
