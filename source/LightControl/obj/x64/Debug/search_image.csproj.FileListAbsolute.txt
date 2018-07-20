@@ -1,0 +1,75 @@
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\LightOff.png
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\LightOn.png
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\LightControl.exe.config
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\LightControl.exe
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\LightControl.pdb
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.csprojAssemblyReference.cache
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\obj\x64\Debug\LightControl.Form1.resources
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\obj\x64\Debug\LightControl.Properties.Resources.resources
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.GenerateResource.cache
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.CoreCompileInputs.cache
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.CopyComplete
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\obj\x64\Debug\LightControl.exe
+C:\Users\10169\Desktop\search_image\Program2\source\LightControl\obj\x64\Debug\LightControl.pdb
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\LightControl.exe.config
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\LightControl.exe
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\LightControl.pdb
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Newtonsoft.Json.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Newtonsoft.Json.xml
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\obj\x64\Debug\LightControl.Properties.Resources.resources
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.GenerateResource.cache
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.CoreCompileInputs.cache
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.CopyComplete
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\obj\x64\Debug\LightControl.exe
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\obj\x64\Debug\LightControl.pdb
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.Dynamic.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.Scripting.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.Scripting.Metadata.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.Dynamic.xml
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.Scripting.xml
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\bin\x64\Debug\Microsoft.Scripting.Metadata.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\LightControl.exe.config
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\LightControl.exe
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\LightControl.pdb
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\IronPython.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\IronPython.Modules.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\IronPython.SQLite.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\IronPython.Wpf.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.Dynamic.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.Scripting.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.Scripting.Metadata.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\IronPython.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\IronPython.Modules.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\IronPython.SQLite.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\IronPython.Wpf.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.Dynamic.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.Scripting.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Microsoft.Scripting.Metadata.xml
+D:\Desktop\Program2\source\LightControl\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Desktop\Program2\source\LightControl\obj\x64\Debug\search_image.csprojAssemblyReference.cache
+D:\Desktop\Program2\source\LightControl\obj\x64\Debug\LightControl.Form1.resources
+D:\Desktop\Program2\source\LightControl\obj\x64\Debug\LightControl.Properties.Resources.resources
+D:\Desktop\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.GenerateResource.cache
+D:\Desktop\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.CoreCompileInputs.cache
+D:\Desktop\Program2\source\LightControl\obj\x64\Debug\search_image.csproj.CopyComplete
+D:\Desktop\Program2\source\LightControl\obj\x64\Debug\LightControl.exe
+D:\Desktop\Program2\source\LightControl\obj\x64\Debug\LightControl.pdb
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.Form1.resources
+Z:\semesters\2018 spring summer\HIT_summer_school\search_image\Program2\source\LightControl\obj\x64\Debug\search_image.csprojAssemblyReference.cache

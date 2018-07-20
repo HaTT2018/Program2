@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LightControl.Properties
+namespace search_image.Properties
 {
 
 
